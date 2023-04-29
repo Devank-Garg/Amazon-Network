@@ -21,7 +21,7 @@ Raw Data can be obtained from:-- [Stanford's Network Datasets](https://snap.stan
 # Methodology
 - analysis involves several key steps:
 
-1.Data preprocessing: We perform data cleaning and transformation to ensure the dataset is in a suitable format for network analysis.
-2.Network construction: We construct a co-purchasing network by representing products as nodes and connecting them based on their co-purchasing relationships.
-3.Network analysis: We apply various social network analysis techniques to explore the structural properties of the co-purchasing network. This includes measuring centrality, identifying communities or clusters, and examining network connectivity.
-4.Visualization: We visualize the co-purchasing network and its key properties to provide a clear representation of the relationships between products and any identified patterns or communities.
+1. Data preprocessing: We perform data cleaning and transformation to ensure the dataset is in a suitable format for network analysis.
+2. Network construction: We construct a co-purchasing network by representing products as nodes and connecting them based on their co-purchasing relationships.
+3. Network analysis: We apply various social network analysis techniques to explore the structural properties of the co-purchasing network. This includes measuring      centrality, identifying communities or clusters, and examining network connectivity.
+4. Visualization: We visualize the co-purchasing network and its key properties to provide a clear representation of the relationships between products and any identified patterns or communities.
