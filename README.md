@@ -9,7 +9,7 @@ By leveraging social network analysis techniques, we aim to gain a deeper unders
 
 # Usage
 1. Run "Amazon_Co-purchased Product Analysis.ipynb"
-Make Sure You Have The CSV Files I have Provided
+* Make Sure You Have The CSV Files I have Provided
 
 
 # Dataset
@@ -19,7 +19,7 @@ The dataset includes attributes such as product IDs, customer IDs, purchase time
 Raw Data can be obtained from:-- [Stanford's Network Datasets](https://snap.stanford.edu/data/#amazon)
 
 # Methodology
-analysis involves several key steps:
+- analysis involves several key steps:
 
 1.Data preprocessing: We perform data cleaning and transformation to ensure the dataset is in a suitable format for network analysis.
 2.Network construction: We construct a co-purchasing network by representing products as nodes and connecting them based on their co-purchasing relationships.
